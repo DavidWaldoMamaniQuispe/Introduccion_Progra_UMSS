@@ -44,7 +44,6 @@ public class Ejercicio1Arreglos {
         // Devolver el máximo valor almacenado en el arreglo
         // Asumir que todos los elementos del arreglo son mayores a 0
         // 15, 20, 10, 50, 45, 9, 8 -> devolver 50
-        // 10:35
         int max = 0;
 
         for (int elemento : arreglo) {
