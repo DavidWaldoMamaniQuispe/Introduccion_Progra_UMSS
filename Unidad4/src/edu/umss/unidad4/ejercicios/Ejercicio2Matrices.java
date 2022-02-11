@@ -123,5 +123,8 @@ public class Ejercicio2Matrices {
         int[][] mat = {{1,2}, {3,4}, {5,6}};
         int[][] transpuesta = Ejercicio2Matrices.transponerMatriz(mat);
         Ejercicio2Matrices.mostrarMatriz(transpuesta);
+
+        double[][] matDoubles = {{-2.0, 4.0}, {2.5, 3.5}};
+        System.out.println(matDoubles[0][1]);
     }
 }
